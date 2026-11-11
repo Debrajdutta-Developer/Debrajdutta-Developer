@@ -34,7 +34,7 @@ A defensive security-platform research project focused on telemetry, detection, 
 ## Connect
 
 - GitHub: [@Debrajdutta-Developer](https://github.com/Debrajdutta-Developer)
-- LinkedIn: [Debraj Dutta](https://www.linkedin.com/in/debraj-dutta-cyber-security/)
+- LinkedIn: [Debraj Dutta](https://www.linkedin.com/in/debraj-dutta-cybersecurity-expert)
 
 ---
 
