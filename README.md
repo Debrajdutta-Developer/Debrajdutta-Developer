@@ -1,16 +1,41 @@
-## Hi there 👋
+# The Ghost | Cybersecurity & Systems Security
 
-<!--
-**Debrajdutta-Developer/Debrajdutta-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and document defensive security tools, identity-focused systems, and practical software projects.
 
-Here are some ideas to get you started:
+My focus is on understanding how systems fail, turning security ideas into testable implementations, and communicating technical work clearly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+
+- Defensive security engineering and security monitoring
+- Authentication telemetry, detection logic, and auditability
+- Identity security, access control, and zero-trust concepts
+- Python automation and backend engineering
+- Cloud-native security concepts and post-quantum cryptography research
+
+## Featured projects
+
+### [SentinelLog](https://github.com/Debrajdutta-Developer/SentinelLog)
+A defensive authentication-log analysis project. It parses and normalizes authentication events, applies detection rules, and produces structured alerts for investigation.
+
+### [IdentityGuard](https://github.com/Debrajdutta-Developer/IdentityGuard)
+An identity-security API project exploring authentication, authorization, tenant-scoped events, audit records, and workload-identity concepts. Some advanced SPIFFE/SPIRE capabilities remain planned; the current identity setting should not be treated as cryptographic workload attestation.
+
+### [VAJRA-SHIELD](https://github.com/Debrajdutta-Developer/VAJRA-SHIELD)
+A defensive security-platform research project focused on telemetry, detection, correlation, investigation support, and forensic assurance. Refer to its roadmap for implementation status.
+
+## Engineering principles
+
+- Build for authorized, defensive use.
+- Prefer evidence and reproducible tests over unsupported claims.
+- Document limitations, assumptions, and known risks.
+- Protect credentials, personal data, and sensitive logs.
+- Treat security alerts as investigation signals, not automatic proof of compromise.
+
+## Connect
+
+- GitHub: [@Debrajdutta-Developer](https://github.com/Debrajdutta-Developer)
+- LinkedIn: [Debraj Dutta](https://www.linkedin.com/in/debraj-dutta-cyber-security/)
+
+---
+
+*The Ghost | Learn. Build. Verify. Improve.*
